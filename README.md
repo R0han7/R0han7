@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohan
-- 👀 I’m interested in Machine Learning,Data Analytics,Smart Contracts
-- 🌱 I’m currently learning all those above
-- 💞️ I’m looking to collaborate on intersting projects !!
+- 👀 I’m interested in AI,Machine Learning, Data Analytics,LLM's, Robots,Gen AI
+- 🌱 I’m currently learning all the above
+- 💞️ I’m looking to collaborate on interesting projects !!
 - 📫 You can reach me through roninrohan7@gmail.com
 
 <!---
